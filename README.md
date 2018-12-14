@@ -1,2 +1,2 @@
-# plural-sight-js-dev-env
+# pluralsight-js-dev-env
 JavaScript Development Environment from course with Cory House
